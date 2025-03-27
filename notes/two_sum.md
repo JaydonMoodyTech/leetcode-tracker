@@ -19,4 +19,4 @@ O(n) because we are creating a dictionary and potentially storing up to n values
 
 
 ## Challenges
-At first, I tried a brute force approach, but it was too slow. Looked at a few hints and found that a hashmap was most efficient. Used a counter variable at first but learned about ‘enumerate()’  to make code cleaner and easier to read.
+At first, I tried a brute force approach with nested for loops, but this has a time complexity of O(n^2), so I tried to come up with a more efficient solution. I looked at a few hints and found that using a hashmap was more efficient When I first implemented a hashmap into my solution, I used a counter variable, which worked just fine. Later, though, I learned about ‘enumerate()’ , which would make my code cleaner and easier to read.
