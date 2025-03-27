@@ -1,2 +1,2 @@
 # leetcode-tracker
-This repository is to keep track of all the leetcodes I have solved with my thought process and how I came up with the solution
+Hello everyone reading this! I am extremely excited to be writing this on 3/26/25 because I have decided to fully document my leetcode journey. I created this repository to keep track of all the leetcodes I have solved, including my thought process, the time complexity, the space complexity, and challenges I faced along the way. Feel free to create a pull request if you find any typos or even bugs in my code!
