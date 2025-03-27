@@ -11,12 +11,12 @@ Given an array of integers ‘nums’ and an integer target, return indices of t
 	3	If ‘target - number’ is found in the hashmap, we can return the index of that number and the index of the current number
 	4	If ‘target - number’ is not found, add that number and its index to the hashmap and loop back through until it is found
 
-##Time Complexity
+##Time Complexity: 
 O(n) because you are looping through ‘nums’ and worst case would be checking every single number in ‘nums’ once
 
-##Space Complexity
+##Space Complexity:
 O(n) because we are creating a dictionary and potentially storing up to n values in that dictionary
 
 
-##Challenges
+##Challenges:
 At first, I tried a brute force approach, but it was too slow. Looked at a few hints and found that a hashmap was most efficient. Used a counter variable at first but learned about ‘enumerate()’  to make code cleaner and easier to read.
