@@ -1,4 +1,4 @@
-*Plus One (LeetCode #66)*
+# Plus One (LeetCode #66)*
 **Problem Link:** https://leetcode.com/problems/plus-one
 **Date Completed:** 4/2/25
 
