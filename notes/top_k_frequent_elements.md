@@ -12,7 +12,7 @@ Given an integer array nums and an integer k, return the k most frequent element
 	4	For every loop we delete the first element and we will be left with k most frequent elements
 
 ## Time Complexity
-O(n log(n)) because sorting dominates time complexity and our sort is O(n log(n))
+O(n log(n)) because sorting dominates time complexity and Timsort takes O(n log(n)) time
 
 ## Space Complexity
 O(n) because we are creating a hashmap and adding potentially every element in nums, and creating a list with every element of that hashmap
