@@ -18,4 +18,4 @@ O(n log(n)) because sorting dominates time complexity and Timsort takes O(n log(
 O(n) because we are creating a hashmap and adding potentially every element in nums, and creating a list with every element of that hashmap
 
 ## Challenges
-This one was pretty challenging for me until I found that I could use a hashmap and how to use the sorted() method. I used outside resources, specifically w3schools because I find they have the best explanations and examples, to figure out this solution after spending around 30 minutes of trial and error.
+This one was pretty challenging for me until I found that I could use a hashmap and how to use the sorted() method. I used outside resources (specifically w3schools.com because I find they have the best explanations and examples) to figure out this solution after spending around 30 minutes of trial and error.
